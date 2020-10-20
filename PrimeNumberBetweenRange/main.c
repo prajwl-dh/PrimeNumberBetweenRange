@@ -44,9 +44,11 @@ int main(int argc, char** argv) {
             printf(" %d\n", checker);
         }
         
+        //increment checker
         checker++;
     }
     
+    //print greeting message
     printf("\nThanks for using the program.\n");
     printf("\n");
     
